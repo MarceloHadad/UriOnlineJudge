@@ -30,61 +30,61 @@ namespace UriOnlineJudge
                             uri1000.Execute();
                         }
 
-                        if (opcao == 1001)
+                        else if (opcao == 1001)
                         {
                             _1001 uri1001 = new _1001();
                             uri1001.Execute();
                         }
 
-                        if (opcao == 1002)
+                        else if (opcao == 1002)
                         {
                             _1002 uri1002 = new _1002();
                             uri1002.Execute();
                         }
 
-                        if (opcao == 1003)
+                        else if (opcao == 1003)
                         {
                             _1003 uri1003 = new _1003();
                             uri1003.Execute();
                         }
 
-                        if (opcao == 1004)
+                        else if (opcao == 1004)
                         {
                             _1004 uri1004 = new _1004();
                             uri1004.Execute();
                         }
 
-                        if (opcao == 1005)
+                        else if (opcao == 1005)
                         {
                             _1005 uri1005 = new _1005();
                             uri1005.Execute();
                         }
 
-                        if (opcao == 1006)
+                        else if (opcao == 1006)
                         {
                             _1006 uri1006 = new _1006();
                             uri1006.Execute();
                         }
 
-                        if (opcao == 1007)
+                        else if (opcao == 1007)
                         {
                             _1007 uri1007 = new _1007();
                             uri1007.Execute();
                         }
 
-                        if (opcao == 1008)
+                        else if (opcao == 1008)
                         {
                             _1008 uri1008 = new _1008();
                             uri1008.Execute();
                         }
 
-                        if (opcao == 1009)
+                        else if (opcao == 1009)
                         {
                             _1009 uri1009 = new _1009();
                             uri1009.Execute();
                         }
 
-                        if (opcao == 1010)
+                        else if (opcao == 1010)
                         {
                             _1010 uri1010 = new _1010();
                             uri1010.Execute();
